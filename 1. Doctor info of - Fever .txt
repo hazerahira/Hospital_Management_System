@@ -1,0 +1,39 @@
+
+                        Doctor name of fever department :
+
+                ************************************************
+
+
+                          1. Dr. Hazera Khatun Hira
+
+                             MBBS,Phd(Japan),FCPS
+
+                             Senior Consulant
+
+                             Room No : AB.20 (2nd Floor)
+
+                             Consulting Hour : 6.00Pm - 10.00Pm
+
+
+
+                          2. Dr. Mehedi Hasan Mahadi
+
+                             MBBS,FCPS
+
+                             Consulant
+
+                             Room No : AB.21 (2nd Floor)
+
+                             Consulting Hour : 12.00Pm - 2.00Pm
+
+
+
+                          3. Dr. Nazma Begum
+
+                             MBBS, MRCP (UK), D.Card(London)
+
+                             Senior Consulant
+
+                             Room No : AB.22 (2nd Floor)
+
+                             Consulting Hour : 7.00Pm - 9.00Pm

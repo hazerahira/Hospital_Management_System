@@ -1,0 +1,24 @@
+
+
+                        This type of disease is treated here
+
+
+                           1. Fever
+
+
+                           2. Cancer
+
+
+                           3. Thyroid
+
+
+                           4. Diabetes
+
+
+                           5. Heart
+
+
+                           6. Back Main Menu
+
+
+                           7. Exit

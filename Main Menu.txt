@@ -1,0 +1,22 @@
+
+
+
+                           1. Doctor Information
+
+
+                           2. Add Appoinment
+
+
+                           3. Patient Profile
+
+
+                           4. Search Patients Appoinment
+
+
+                           5. Edit Patients Appoinment
+
+
+                           6. Delete Patients Appoinment
+
+
+                           7. Exit

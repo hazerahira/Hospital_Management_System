@@ -1,0 +1,39 @@
+
+                         Doctor name of heart department :
+
+                 ************************************************
+
+
+                          1. Dr. Hazera Khatun Hira
+
+                             MBBS,Phd(Japan),FCPS
+
+                             Senior Consulant
+
+                             Room No : AF.20 (6th Floor)
+
+                             Consulting Hour : 6.00Pm - 10.00Pm
+
+
+
+                          2. Dr. Mehedi Hasan Mahadi
+
+                             MBBS,FCPS
+
+                             Consulant
+
+                             Room No : AF.21 (6th Floor)
+
+                             Consulting Hour : 12.00Pm - 2.00Pm
+
+
+
+                          3. Dr. Nazma Begum
+
+                             MBBS, MRCP (UK), D.Card(London)
+
+                             Senior Consulant
+
+                             Room No : AF.22 (6th Floor)
+
+                             Consulting Hour : 7.00Pm - 9.00Pm

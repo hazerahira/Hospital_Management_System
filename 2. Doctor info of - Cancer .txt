@@ -1,0 +1,39 @@
+          
+                          Doctor name of cancer department :
+
+                  ************************************************
+
+
+                          1. Dr. Hazera Khatun Hira
+
+                             MBBS,Phd(Japan),FCPS
+
+                             Senior Consulant
+
+                             Room No : AC.20 (3rd Floor)
+
+                             Consulting Hour : 6.00Pm - 10.00Pm
+
+
+
+                          2. Dr. Mehedi Hasan Mahadi
+
+                             MBBS,FCPS
+
+                             Consulant
+
+                             Room No : AC.21 (3rd Floor)
+
+                             Consulting Hour : 12.00Pm - 2.00Pm
+
+
+
+                          3. Dr. Nazma Begum
+
+                             MBBS, MRCP (UK), D.Card(London)
+
+                             Senior Consulant
+
+                             Room No : AC.22 (3rd Floor)
+
+                             Consulting Hour : 7.00Pm - 9.00Pm
